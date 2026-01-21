@@ -4,6 +4,12 @@ ColorFont is an interactive playground for testing color systems and typography 
 
 The project focuses on understanding how color, contrast, and typography behave together in real designs, not just how they look in a palette.
 
+<p align="center">
+  <img src="./assets/colorfont.gif" width="800">
+  <br/>
+  <em>Demo - ColorFont</em>
+</p>
+
 ---
 
 ## What Problem It Explores
