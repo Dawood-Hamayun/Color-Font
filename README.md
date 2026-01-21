@@ -163,20 +163,6 @@ Accessibility is treated as a first-class concern:
 
 ---
 
-## What This Project Demonstrates
-
-ColorFont demonstrates:
-
-- real-time design system tooling
-- color theory applied programmatically
-- accessibility-aware UI logic
-- typography scaling across layouts
-- state-driven UI architecture
-- complex interactive UI without backend reliance
-- practical UX tooling beyond static mockups
-
----
-
 ## Scope & Status
 
 ColorFont is:
